@@ -1,0 +1,5 @@
+{
+  "mongoUri": "mongodb+srv://username:password@presencetrack-6dnxv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret-token",
+  "avatarsEndpoint": "https://avatars-pt.s3.us-east-2.amazonaws.com/avatars/"
+}
